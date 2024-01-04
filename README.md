@@ -41,7 +41,7 @@ the steps to get started:
    under your own GitHub account.
 5. After forking, you'll have your own copy of the repository under your GitHub account.
     - Copy the URL of your forked repository, which will look
-      like: `https://github.com/YourUsername/full-stack-react.git`.
+      like: `https://github.com/YourUsername/testing-express-with-supertest.git`.
 6. Now clone the repository using the SSH URL.
 7. To switch your current directory from `mef` to `testing-express-with-supertest`, execute the command: `cd
    testing-express-with-supertest`.
