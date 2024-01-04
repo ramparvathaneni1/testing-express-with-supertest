@@ -45,7 +45,8 @@ the steps to get started:
 6. Now clone the repository using the SSH URL.
 7. To switch your current directory from `mef` to `testing-express-with-supertest`, execute the command: `cd
    testing-express-with-supertest`.
-8. You can install dependencies by executing the `npm install` command.
+8. You have two options for installing dependencies: you can use the `npm install` command to install all the dependencies
+   listed in the `package.json`, or you can specify individual packages by running `npm install express jest supertest`.
 
 ### Writing the API
 
